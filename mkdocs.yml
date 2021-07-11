@@ -1,0 +1,9 @@
+site_name: Hello world!
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Portfolio: portfolio.md
+  - Contact: contact.md
+
+theme: minty
